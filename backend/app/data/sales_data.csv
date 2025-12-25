@@ -1,0 +1,2432 @@
+date,category,amount
+2023-01-01,Food,208
+2023-01-01,Clothing,47
+2023-01-01,Beverage,35
+2023-01-01,Electronics,220
+2023-01-01,Food,83
+2023-01-01,Clothing,384
+2023-01-01,Food,102
+2023-01-02,Sports,294
+2023-01-02,Sports,498
+2023-01-02,Food,169
+2023-01-02,Books,401
+2023-01-02,Beverage,301
+2023-01-02,Beverage,154
+2023-01-02,Beverage,90
+2023-01-02,Clothing,285
+2023-01-02,Beverage,380
+2023-01-02,Clothing,138
+2023-01-03,Food,277
+2023-01-03,Clothing,397
+2023-01-03,Electronics,71
+2023-01-04,Food,53
+2023-01-04,Clothing,421
+2023-01-04,Books,26
+2023-01-04,Books,235
+2023-01-04,Electronics,374
+2023-01-04,Electronics,213
+2023-01-05,Electronics,437
+2023-01-05,Clothing,302
+2023-01-05,Books,352
+2023-01-05,Books,405
+2023-01-06,Food,278
+2023-01-06,Sports,43
+2023-01-06,Food,339
+2023-01-06,Sports,357
+2023-01-07,Food,286
+2023-01-07,Home & Garden,437
+2023-01-07,Home & Garden,136
+2023-01-07,Clothing,125
+2023-01-07,Clothing,476
+2023-01-07,Food,223
+2023-01-07,Home & Garden,411
+2023-01-08,Sports,261
+2023-01-08,Home & Garden,478
+2023-01-08,Electronics,293
+2023-01-08,Electronics,439
+2023-01-08,Food,114
+2023-01-08,Books,374
+2023-01-09,Books,407
+2023-01-09,Food,239
+2023-01-09,Books,236
+2023-01-09,Beverage,451
+2023-01-10,Books,253
+2023-01-10,Home & Garden,149
+2023-01-10,Home & Garden,357
+2023-01-10,Home & Garden,267
+2023-01-11,Clothing,440
+2023-01-11,Home & Garden,294
+2023-01-11,Electronics,432
+2023-01-11,Beverage,36
+2023-01-11,Clothing,82
+2023-01-11,Beverage,411
+2023-01-11,Clothing,375
+2023-01-11,Clothing,267
+2023-01-12,Beverage,82
+2023-01-12,Books,255
+2023-01-12,Food,48
+2023-01-12,Electronics,76
+2023-01-12,Food,209
+2023-01-12,Electronics,161
+2023-01-12,Sports,293
+2023-01-13,Food,452
+2023-01-13,Home & Garden,436
+2023-01-13,Clothing,406
+2023-01-13,Books,231
+2023-01-13,Books,105
+2023-01-13,Sports,207
+2023-01-13,Home & Garden,380
+2023-01-13,Home & Garden,27
+2023-01-13,Clothing,367
+2023-01-14,Sports,456
+2023-01-14,Home & Garden,305
+2023-01-14,Books,413
+2023-01-14,Sports,124
+2023-01-14,Electronics,256
+2023-01-14,Beverage,353
+2023-01-14,Books,371
+2023-01-14,Books,370
+2023-01-15,Food,352
+2023-01-15,Beverage,168
+2023-01-15,Food,485
+2023-01-15,Clothing,117
+2023-01-16,Clothing,364
+2023-01-16,Home & Garden,50
+2023-01-16,Clothing,133
+2023-01-16,Beverage,432
+2023-01-16,Sports,29
+2023-01-16,Food,352
+2023-01-16,Clothing,188
+2023-01-16,Books,130
+2023-01-16,Sports,66
+2023-01-16,Food,366
+2023-01-17,Home & Garden,485
+2023-01-17,Books,20
+2023-01-17,Home & Garden,139
+2023-01-18,Books,163
+2023-01-18,Books,463
+2023-01-18,Electronics,415
+2023-01-18,Electronics,65
+2023-01-18,Electronics,55
+2023-01-18,Home & Garden,148
+2023-01-18,Electronics,315
+2023-01-18,Food,158
+2023-01-19,Beverage,427
+2023-01-19,Clothing,128
+2023-01-19,Electronics,437
+2023-01-19,Clothing,168
+2023-01-19,Home & Garden,253
+2023-01-19,Books,317
+2023-01-19,Food,199
+2023-01-19,Food,215
+2023-01-19,Sports,22
+2023-01-20,Beverage,300
+2023-01-20,Home & Garden,121
+2023-01-20,Beverage,122
+2023-01-20,Beverage,84
+2023-01-20,Electronics,455
+2023-01-20,Home & Garden,165
+2023-01-21,Books,225
+2023-01-21,Home & Garden,165
+2023-01-21,Food,256
+2023-01-21,Clothing,453
+2023-01-21,Sports,98
+2023-01-21,Home & Garden,101
+2023-01-22,Beverage,49
+2023-01-22,Books,232
+2023-01-22,Beverage,306
+2023-01-22,Electronics,255
+2023-01-23,Electronics,310
+2023-01-23,Sports,84
+2023-01-23,Home & Garden,446
+2023-01-23,Home & Garden,38
+2023-01-23,Beverage,467
+2023-01-23,Sports,441
+2023-01-23,Clothing,358
+2023-01-23,Food,391
+2023-01-24,Food,102
+2023-01-24,Food,499
+2023-01-24,Sports,171
+2023-01-24,Books,303
+2023-01-24,Sports,358
+2023-01-24,Beverage,476
+2023-01-24,Beverage,244
+2023-01-24,Books,96
+2023-01-25,Sports,372
+2023-01-25,Electronics,121
+2023-01-25,Clothing,59
+2023-01-25,Sports,205
+2023-01-25,Electronics,51
+2023-01-25,Clothing,37
+2023-01-25,Sports,191
+2023-01-25,Electronics,433
+2023-01-25,Clothing,86
+2023-01-25,Electronics,96
+2023-01-26,Food,500
+2023-01-26,Sports,297
+2023-01-26,Food,251
+2023-01-27,Electronics,208
+2023-01-27,Electronics,493
+2023-01-27,Electronics,161
+2023-01-27,Sports,198
+2023-01-27,Home & Garden,73
+2023-01-27,Home & Garden,375
+2023-01-27,Sports,400
+2023-01-27,Sports,48
+2023-01-27,Electronics,24
+2023-01-28,Books,367
+2023-01-28,Sports,243
+2023-01-28,Home & Garden,223
+2023-01-28,Food,214
+2023-01-28,Food,21
+2023-01-28,Books,355
+2023-01-28,Clothing,70
+2023-01-28,Home & Garden,432
+2023-01-29,Electronics,102
+2023-01-29,Clothing,33
+2023-01-29,Home & Garden,253
+2023-01-29,Beverage,190
+2023-01-29,Electronics,158
+2023-01-29,Home & Garden,241
+2023-01-29,Books,491
+2023-01-29,Beverage,127
+2023-01-29,Sports,222
+2023-01-30,Beverage,180
+2023-01-30,Home & Garden,199
+2023-01-30,Sports,255
+2023-01-30,Books,117
+2023-01-30,Clothing,52
+2023-01-30,Electronics,155
+2023-01-30,Books,371
+2023-01-30,Electronics,286
+2023-01-30,Clothing,410
+2023-01-31,Electronics,171
+2023-01-31,Home & Garden,313
+2023-01-31,Clothing,211
+2023-01-31,Electronics,232
+2023-02-01,Books,272
+2023-02-01,Clothing,460
+2023-02-01,Beverage,149
+2023-02-01,Beverage,110
+2023-02-01,Books,62
+2023-02-02,Beverage,149
+2023-02-02,Home & Garden,498
+2023-02-02,Home & Garden,147
+2023-02-02,Sports,474
+2023-02-02,Books,411
+2023-02-02,Clothing,140
+2023-02-02,Beverage,440
+2023-02-02,Sports,231
+2023-02-03,Sports,350
+2023-02-03,Beverage,65
+2023-02-03,Clothing,464
+2023-02-03,Beverage,46
+2023-02-04,Home & Garden,51
+2023-02-04,Electronics,295
+2023-02-04,Sports,45
+2023-02-04,Electronics,81
+2023-02-04,Food,425
+2023-02-04,Electronics,197
+2023-02-05,Clothing,329
+2023-02-05,Home & Garden,368
+2023-02-05,Electronics,416
+2023-02-05,Sports,419
+2023-02-05,Books,167
+2023-02-05,Food,323
+2023-02-05,Beverage,114
+2023-02-05,Electronics,351
+2023-02-05,Beverage,45
+2023-02-05,Books,72
+2023-02-06,Sports,472
+2023-02-06,Home & Garden,376
+2023-02-06,Sports,375
+2023-02-06,Sports,417
+2023-02-06,Food,236
+2023-02-06,Sports,171
+2023-02-07,Beverage,38
+2023-02-07,Beverage,454
+2023-02-07,Beverage,275
+2023-02-08,Beverage,200
+2023-02-08,Food,388
+2023-02-08,Home & Garden,137
+2023-02-08,Beverage,89
+2023-02-08,Home & Garden,470
+2023-02-08,Electronics,295
+2023-02-08,Home & Garden,480
+2023-02-08,Books,365
+2023-02-08,Beverage,297
+2023-02-08,Home & Garden,57
+2023-02-09,Food,165
+2023-02-09,Electronics,36
+2023-02-09,Electronics,414
+2023-02-09,Food,164
+2023-02-09,Books,457
+2023-02-09,Books,177
+2023-02-10,Electronics,244
+2023-02-10,Electronics,450
+2023-02-10,Clothing,74
+2023-02-10,Home & Garden,279
+2023-02-10,Electronics,482
+2023-02-11,Beverage,40
+2023-02-11,Beverage,147
+2023-02-11,Sports,334
+2023-02-11,Food,90
+2023-02-12,Books,28
+2023-02-12,Sports,353
+2023-02-12,Clothing,307
+2023-02-12,Books,331
+2023-02-12,Sports,497
+2023-02-12,Food,391
+2023-02-12,Clothing,367
+2023-02-13,Sports,282
+2023-02-13,Books,101
+2023-02-13,Food,274
+2023-02-13,Electronics,213
+2023-02-13,Books,317
+2023-02-13,Books,253
+2023-02-13,Books,37
+2023-02-13,Food,389
+2023-02-14,Clothing,169
+2023-02-14,Clothing,315
+2023-02-14,Electronics,175
+2023-02-14,Food,303
+2023-02-14,Electronics,228
+2023-02-14,Beverage,178
+2023-02-14,Food,254
+2023-02-14,Beverage,315
+2023-02-14,Electronics,376
+2023-02-14,Food,485
+2023-02-15,Beverage,88
+2023-02-15,Sports,212
+2023-02-15,Books,323
+2023-02-15,Books,61
+2023-02-15,Electronics,372
+2023-02-15,Electronics,161
+2023-02-15,Sports,442
+2023-02-16,Clothing,393
+2023-02-16,Books,444
+2023-02-16,Electronics,411
+2023-02-16,Food,200
+2023-02-16,Sports,33
+2023-02-16,Sports,204
+2023-02-16,Electronics,287
+2023-02-17,Electronics,237
+2023-02-17,Books,25
+2023-02-17,Books,475
+2023-02-17,Home & Garden,145
+2023-02-17,Sports,37
+2023-02-17,Sports,107
+2023-02-17,Home & Garden,313
+2023-02-17,Beverage,404
+2023-02-18,Clothing,354
+2023-02-18,Food,429
+2023-02-18,Clothing,346
+2023-02-18,Clothing,376
+2023-02-19,Books,308
+2023-02-19,Books,455
+2023-02-19,Food,43
+2023-02-19,Electronics,246
+2023-02-19,Food,466
+2023-02-19,Electronics,275
+2023-02-19,Home & Garden,55
+2023-02-19,Sports,171
+2023-02-20,Sports,464
+2023-02-20,Home & Garden,51
+2023-02-20,Beverage,344
+2023-02-20,Clothing,119
+2023-02-20,Beverage,409
+2023-02-20,Food,232
+2023-02-20,Sports,129
+2023-02-20,Food,270
+2023-02-20,Electronics,141
+2023-02-20,Home & Garden,102
+2023-02-21,Clothing,496
+2023-02-21,Sports,23
+2023-02-21,Electronics,345
+2023-02-21,Beverage,255
+2023-02-21,Clothing,250
+2023-02-21,Books,297
+2023-02-21,Beverage,111
+2023-02-22,Beverage,475
+2023-02-22,Books,86
+2023-02-22,Clothing,374
+2023-02-22,Electronics,372
+2023-02-22,Clothing,22
+2023-02-22,Electronics,390
+2023-02-22,Home & Garden,463
+2023-02-22,Electronics,331
+2023-02-22,Electronics,385
+2023-02-22,Food,479
+2023-02-23,Home & Garden,236
+2023-02-23,Electronics,500
+2023-02-23,Electronics,206
+2023-02-23,Home & Garden,408
+2023-02-23,Books,289
+2023-02-24,Clothing,389
+2023-02-24,Beverage,290
+2023-02-24,Books,433
+2023-02-24,Beverage,140
+2023-02-24,Home & Garden,452
+2023-02-25,Beverage,471
+2023-02-25,Beverage,466
+2023-02-25,Food,406
+2023-02-25,Clothing,363
+2023-02-25,Sports,300
+2023-02-25,Home & Garden,172
+2023-02-26,Food,46
+2023-02-26,Beverage,481
+2023-02-26,Beverage,418
+2023-02-26,Electronics,55
+2023-02-26,Food,58
+2023-02-26,Home & Garden,377
+2023-02-27,Home & Garden,387
+2023-02-27,Beverage,238
+2023-02-27,Beverage,73
+2023-02-27,Electronics,307
+2023-02-27,Food,82
+2023-02-27,Electronics,123
+2023-02-27,Electronics,404
+2023-02-27,Food,254
+2023-02-28,Clothing,75
+2023-02-28,Sports,127
+2023-02-28,Clothing,83
+2023-03-01,Books,100
+2023-03-01,Electronics,34
+2023-03-01,Home & Garden,21
+2023-03-01,Beverage,488
+2023-03-01,Sports,198
+2023-03-02,Books,323
+2023-03-02,Food,169
+2023-03-02,Clothing,218
+2023-03-02,Electronics,366
+2023-03-02,Home & Garden,98
+2023-03-02,Sports,477
+2023-03-02,Sports,29
+2023-03-02,Books,96
+2023-03-03,Food,279
+2023-03-03,Books,112
+2023-03-03,Electronics,379
+2023-03-03,Food,139
+2023-03-03,Books,68
+2023-03-04,Books,498
+2023-03-04,Home & Garden,257
+2023-03-04,Beverage,334
+2023-03-05,Sports,460
+2023-03-05,Beverage,331
+2023-03-05,Beverage,483
+2023-03-05,Home & Garden,21
+2023-03-05,Electronics,280
+2023-03-05,Home & Garden,178
+2023-03-06,Home & Garden,379
+2023-03-06,Home & Garden,158
+2023-03-06,Beverage,218
+2023-03-06,Food,440
+2023-03-06,Sports,136
+2023-03-06,Sports,180
+2023-03-07,Clothing,325
+2023-03-07,Beverage,480
+2023-03-07,Sports,450
+2023-03-07,Clothing,481
+2023-03-08,Clothing,24
+2023-03-08,Beverage,202
+2023-03-08,Home & Garden,215
+2023-03-08,Clothing,350
+2023-03-08,Sports,350
+2023-03-08,Electronics,325
+2023-03-08,Sports,470
+2023-03-08,Books,373
+2023-03-09,Beverage,90
+2023-03-09,Electronics,313
+2023-03-09,Books,65
+2023-03-09,Electronics,257
+2023-03-09,Home & Garden,108
+2023-03-10,Food,324
+2023-03-10,Beverage,465
+2023-03-10,Home & Garden,53
+2023-03-10,Books,419
+2023-03-10,Home & Garden,343
+2023-03-10,Electronics,200
+2023-03-10,Electronics,264
+2023-03-10,Books,226
+2023-03-10,Electronics,341
+2023-03-11,Clothing,295
+2023-03-11,Clothing,265
+2023-03-11,Sports,223
+2023-03-11,Beverage,181
+2023-03-11,Sports,499
+2023-03-11,Home & Garden,451
+2023-03-11,Home & Garden,80
+2023-03-11,Beverage,99
+2023-03-11,Home & Garden,50
+2023-03-11,Food,92
+2023-03-12,Beverage,304
+2023-03-12,Beverage,217
+2023-03-12,Sports,114
+2023-03-12,Beverage,309
+2023-03-12,Food,83
+2023-03-12,Beverage,468
+2023-03-12,Books,359
+2023-03-12,Home & Garden,286
+2023-03-13,Clothing,80
+2023-03-13,Sports,489
+2023-03-13,Electronics,438
+2023-03-13,Food,59
+2023-03-13,Beverage,374
+2023-03-14,Clothing,352
+2023-03-14,Sports,123
+2023-03-14,Beverage,234
+2023-03-14,Sports,454
+2023-03-14,Beverage,290
+2023-03-14,Sports,277
+2023-03-14,Beverage,98
+2023-03-14,Beverage,398
+2023-03-15,Beverage,266
+2023-03-15,Sports,423
+2023-03-15,Books,291
+2023-03-15,Home & Garden,345
+2023-03-15,Beverage,471
+2023-03-15,Beverage,221
+2023-03-16,Home & Garden,495
+2023-03-16,Electronics,33
+2023-03-16,Clothing,425
+2023-03-16,Books,192
+2023-03-16,Electronics,177
+2023-03-16,Clothing,229
+2023-03-16,Home & Garden,68
+2023-03-16,Books,185
+2023-03-16,Electronics,458
+2023-03-16,Home & Garden,236
+2023-03-17,Electronics,27
+2023-03-17,Home & Garden,162
+2023-03-17,Sports,193
+2023-03-17,Beverage,474
+2023-03-17,Electronics,139
+2023-03-17,Food,203
+2023-03-17,Food,72
+2023-03-17,Food,63
+2023-03-17,Food,291
+2023-03-17,Electronics,269
+2023-03-18,Beverage,178
+2023-03-18,Books,131
+2023-03-18,Books,250
+2023-03-18,Sports,466
+2023-03-18,Home & Garden,35
+2023-03-18,Beverage,265
+2023-03-18,Sports,419
+2023-03-18,Electronics,270
+2023-03-19,Beverage,376
+2023-03-19,Sports,208
+2023-03-19,Sports,63
+2023-03-19,Electronics,400
+2023-03-19,Clothing,241
+2023-03-20,Beverage,476
+2023-03-20,Home & Garden,160
+2023-03-20,Sports,79
+2023-03-20,Books,56
+2023-03-20,Food,42
+2023-03-21,Home & Garden,447
+2023-03-21,Electronics,101
+2023-03-21,Clothing,459
+2023-03-21,Books,299
+2023-03-21,Clothing,72
+2023-03-21,Food,478
+2023-03-22,Sports,429
+2023-03-22,Electronics,372
+2023-03-22,Sports,139
+2023-03-22,Food,115
+2023-03-22,Clothing,173
+2023-03-22,Sports,175
+2023-03-23,Food,57
+2023-03-23,Sports,180
+2023-03-23,Books,73
+2023-03-23,Electronics,326
+2023-03-23,Beverage,182
+2023-03-24,Books,284
+2023-03-24,Sports,79
+2023-03-24,Beverage,160
+2023-03-24,Electronics,211
+2023-03-24,Electronics,287
+2023-03-24,Sports,200
+2023-03-24,Electronics,332
+2023-03-25,Home & Garden,214
+2023-03-25,Clothing,122
+2023-03-25,Books,141
+2023-03-25,Electronics,223
+2023-03-25,Clothing,132
+2023-03-26,Books,432
+2023-03-26,Food,197
+2023-03-26,Food,471
+2023-03-26,Beverage,71
+2023-03-26,Beverage,151
+2023-03-26,Clothing,448
+2023-03-26,Beverage,397
+2023-03-26,Beverage,229
+2023-03-27,Clothing,365
+2023-03-27,Home & Garden,291
+2023-03-27,Electronics,315
+2023-03-27,Home & Garden,249
+2023-03-27,Food,294
+2023-03-27,Beverage,345
+2023-03-28,Food,88
+2023-03-28,Electronics,202
+2023-03-28,Food,495
+2023-03-28,Electronics,233
+2023-03-28,Home & Garden,460
+2023-03-28,Beverage,102
+2023-03-29,Sports,246
+2023-03-29,Food,353
+2023-03-29,Beverage,260
+2023-03-29,Food,103
+2023-03-29,Food,337
+2023-03-30,Sports,475
+2023-03-30,Food,94
+2023-03-30,Clothing,324
+2023-03-30,Electronics,283
+2023-03-30,Beverage,327
+2023-03-30,Sports,274
+2023-03-31,Home & Garden,292
+2023-03-31,Food,150
+2023-03-31,Home & Garden,451
+2023-03-31,Home & Garden,142
+2023-03-31,Clothing,157
+2023-03-31,Food,304
+2023-03-31,Clothing,69
+2023-03-31,Books,74
+2023-04-01,Clothing,26
+2023-04-01,Books,92
+2023-04-01,Home & Garden,363
+2023-04-01,Food,247
+2023-04-01,Clothing,448
+2023-04-01,Books,145
+2023-04-01,Electronics,371
+2023-04-02,Sports,157
+2023-04-02,Beverage,212
+2023-04-02,Beverage,128
+2023-04-02,Home & Garden,168
+2023-04-02,Food,190
+2023-04-02,Sports,189
+2023-04-02,Books,430
+2023-04-02,Home & Garden,430
+2023-04-02,Clothing,39
+2023-04-03,Electronics,383
+2023-04-03,Home & Garden,414
+2023-04-03,Electronics,426
+2023-04-03,Home & Garden,294
+2023-04-03,Food,293
+2023-04-03,Books,82
+2023-04-04,Sports,462
+2023-04-04,Electronics,451
+2023-04-04,Home & Garden,469
+2023-04-04,Beverage,481
+2023-04-04,Books,363
+2023-04-05,Food,69
+2023-04-05,Beverage,286
+2023-04-05,Beverage,227
+2023-04-05,Beverage,326
+2023-04-05,Sports,82
+2023-04-06,Home & Garden,298
+2023-04-06,Food,365
+2023-04-06,Electronics,201
+2023-04-06,Electronics,390
+2023-04-06,Books,62
+2023-04-06,Food,380
+2023-04-06,Beverage,141
+2023-04-06,Clothing,395
+2023-04-06,Electronics,282
+2023-04-06,Food,448
+2023-04-07,Food,158
+2023-04-07,Sports,193
+2023-04-07,Clothing,435
+2023-04-07,Beverage,170
+2023-04-07,Home & Garden,489
+2023-04-07,Beverage,20
+2023-04-07,Sports,485
+2023-04-07,Clothing,363
+2023-04-07,Home & Garden,304
+2023-04-08,Sports,145
+2023-04-08,Books,407
+2023-04-08,Clothing,209
+2023-04-09,Food,472
+2023-04-09,Beverage,22
+2023-04-09,Beverage,100
+2023-04-09,Clothing,30
+2023-04-10,Food,168
+2023-04-10,Books,397
+2023-04-10,Books,200
+2023-04-10,Sports,488
+2023-04-10,Home & Garden,302
+2023-04-10,Books,288
+2023-04-10,Sports,486
+2023-04-11,Beverage,114
+2023-04-11,Electronics,455
+2023-04-11,Home & Garden,267
+2023-04-11,Books,325
+2023-04-11,Beverage,400
+2023-04-11,Books,447
+2023-04-12,Clothing,406
+2023-04-12,Electronics,106
+2023-04-12,Clothing,275
+2023-04-12,Books,190
+2023-04-12,Food,351
+2023-04-12,Food,81
+2023-04-12,Food,179
+2023-04-12,Home & Garden,89
+2023-04-12,Beverage,121
+2023-04-12,Electronics,136
+2023-04-13,Electronics,132
+2023-04-13,Home & Garden,163
+2023-04-13,Home & Garden,463
+2023-04-13,Beverage,302
+2023-04-13,Books,119
+2023-04-13,Books,440
+2023-04-13,Home & Garden,361
+2023-04-13,Electronics,138
+2023-04-13,Home & Garden,384
+2023-04-13,Home & Garden,168
+2023-04-14,Clothing,147
+2023-04-14,Beverage,500
+2023-04-14,Electronics,481
+2023-04-14,Books,61
+2023-04-14,Beverage,203
+2023-04-14,Beverage,34
+2023-04-15,Books,437
+2023-04-15,Sports,275
+2023-04-15,Books,193
+2023-04-15,Food,105
+2023-04-15,Clothing,73
+2023-04-15,Clothing,94
+2023-04-15,Books,322
+2023-04-15,Books,27
+2023-04-15,Sports,205
+2023-04-15,Books,456
+2023-04-16,Beverage,77
+2023-04-16,Sports,281
+2023-04-16,Home & Garden,409
+2023-04-17,Books,390
+2023-04-17,Electronics,252
+2023-04-17,Electronics,468
+2023-04-17,Clothing,426
+2023-04-17,Clothing,332
+2023-04-17,Electronics,280
+2023-04-17,Electronics,441
+2023-04-17,Electronics,30
+2023-04-17,Sports,98
+2023-04-18,Food,332
+2023-04-18,Electronics,160
+2023-04-18,Clothing,467
+2023-04-18,Beverage,52
+2023-04-18,Beverage,141
+2023-04-18,Clothing,200
+2023-04-19,Home & Garden,500
+2023-04-19,Clothing,396
+2023-04-19,Home & Garden,223
+2023-04-19,Food,211
+2023-04-19,Home & Garden,270
+2023-04-19,Books,492
+2023-04-20,Books,143
+2023-04-20,Books,236
+2023-04-20,Clothing,227
+2023-04-20,Beverage,366
+2023-04-20,Home & Garden,339
+2023-04-21,Books,486
+2023-04-21,Sports,363
+2023-04-21,Sports,449
+2023-04-21,Books,80
+2023-04-21,Beverage,430
+2023-04-21,Sports,150
+2023-04-21,Home & Garden,64
+2023-04-21,Clothing,205
+2023-04-21,Clothing,93
+2023-04-22,Sports,35
+2023-04-22,Books,269
+2023-04-22,Beverage,470
+2023-04-22,Home & Garden,123
+2023-04-22,Electronics,376
+2023-04-22,Beverage,384
+2023-04-22,Electronics,272
+2023-04-22,Beverage,449
+2023-04-22,Books,125
+2023-04-22,Sports,179
+2023-04-23,Beverage,154
+2023-04-23,Books,130
+2023-04-23,Home & Garden,284
+2023-04-23,Food,166
+2023-04-23,Electronics,348
+2023-04-24,Food,204
+2023-04-24,Home & Garden,213
+2023-04-24,Home & Garden,110
+2023-04-24,Food,440
+2023-04-24,Electronics,326
+2023-04-25,Home & Garden,389
+2023-04-25,Books,361
+2023-04-25,Sports,295
+2023-04-25,Sports,25
+2023-04-25,Clothing,459
+2023-04-25,Home & Garden,367
+2023-04-26,Clothing,407
+2023-04-26,Electronics,53
+2023-04-26,Electronics,264
+2023-04-26,Beverage,423
+2023-04-26,Books,26
+2023-04-26,Home & Garden,236
+2023-04-26,Home & Garden,58
+2023-04-27,Books,307
+2023-04-27,Beverage,415
+2023-04-27,Food,359
+2023-04-27,Books,477
+2023-04-27,Sports,299
+2023-04-27,Food,420
+2023-04-27,Beverage,241
+2023-04-27,Home & Garden,116
+2023-04-27,Beverage,362
+2023-04-28,Food,30
+2023-04-28,Books,221
+2023-04-28,Food,62
+2023-04-28,Home & Garden,480
+2023-04-29,Electronics,129
+2023-04-29,Clothing,334
+2023-04-29,Electronics,438
+2023-04-29,Books,175
+2023-04-29,Books,396
+2023-04-29,Food,107
+2023-04-29,Food,144
+2023-04-29,Clothing,432
+2023-04-29,Sports,482
+2023-04-30,Clothing,473
+2023-04-30,Home & Garden,441
+2023-04-30,Sports,222
+2023-04-30,Food,135
+2023-04-30,Beverage,450
+2023-04-30,Beverage,426
+2023-04-30,Clothing,205
+2023-05-01,Beverage,262
+2023-05-01,Sports,235
+2023-05-01,Clothing,191
+2023-05-02,Home & Garden,127
+2023-05-02,Home & Garden,369
+2023-05-02,Home & Garden,232
+2023-05-02,Home & Garden,355
+2023-05-03,Books,478
+2023-05-03,Sports,443
+2023-05-03,Books,156
+2023-05-03,Clothing,146
+2023-05-03,Sports,43
+2023-05-03,Electronics,378
+2023-05-04,Clothing,138
+2023-05-04,Electronics,75
+2023-05-04,Food,211
+2023-05-04,Beverage,149
+2023-05-04,Clothing,44
+2023-05-04,Electronics,185
+2023-05-04,Food,209
+2023-05-05,Books,495
+2023-05-05,Sports,265
+2023-05-05,Beverage,462
+2023-05-05,Food,353
+2023-05-05,Electronics,145
+2023-05-05,Books,391
+2023-05-05,Clothing,219
+2023-05-05,Food,210
+2023-05-05,Sports,423
+2023-05-06,Food,364
+2023-05-06,Books,91
+2023-05-06,Beverage,363
+2023-05-06,Food,240
+2023-05-06,Electronics,55
+2023-05-06,Home & Garden,34
+2023-05-07,Electronics,116
+2023-05-07,Books,237
+2023-05-07,Books,48
+2023-05-07,Sports,173
+2023-05-07,Home & Garden,110
+2023-05-07,Books,318
+2023-05-07,Home & Garden,95
+2023-05-07,Home & Garden,276
+2023-05-07,Clothing,384
+2023-05-07,Books,467
+2023-05-08,Food,144
+2023-05-08,Food,263
+2023-05-08,Electronics,372
+2023-05-08,Sports,369
+2023-05-08,Sports,227
+2023-05-08,Sports,117
+2023-05-09,Beverage,134
+2023-05-09,Books,488
+2023-05-09,Home & Garden,224
+2023-05-09,Clothing,482
+2023-05-09,Clothing,476
+2023-05-09,Beverage,416
+2023-05-09,Clothing,78
+2023-05-09,Beverage,374
+2023-05-09,Food,446
+2023-05-10,Beverage,457
+2023-05-10,Clothing,133
+2023-05-10,Sports,258
+2023-05-10,Home & Garden,155
+2023-05-10,Books,440
+2023-05-10,Electronics,47
+2023-05-10,Beverage,339
+2023-05-11,Beverage,207
+2023-05-11,Food,414
+2023-05-11,Food,315
+2023-05-11,Electronics,438
+2023-05-12,Books,99
+2023-05-12,Home & Garden,354
+2023-05-12,Clothing,396
+2023-05-12,Food,476
+2023-05-13,Food,255
+2023-05-13,Food,98
+2023-05-13,Food,40
+2023-05-14,Clothing,326
+2023-05-14,Beverage,368
+2023-05-14,Food,326
+2023-05-14,Food,182
+2023-05-14,Sports,129
+2023-05-14,Food,58
+2023-05-15,Sports,311
+2023-05-15,Electronics,191
+2023-05-15,Books,235
+2023-05-15,Electronics,86
+2023-05-16,Electronics,77
+2023-05-16,Books,124
+2023-05-16,Food,185
+2023-05-16,Food,363
+2023-05-16,Sports,250
+2023-05-17,Food,51
+2023-05-17,Food,155
+2023-05-17,Clothing,211
+2023-05-17,Electronics,88
+2023-05-17,Beverage,223
+2023-05-17,Food,136
+2023-05-17,Home & Garden,488
+2023-05-17,Home & Garden,346
+2023-05-17,Clothing,173
+2023-05-17,Sports,399
+2023-05-18,Home & Garden,480
+2023-05-18,Books,486
+2023-05-18,Clothing,61
+2023-05-19,Home & Garden,175
+2023-05-19,Electronics,325
+2023-05-19,Sports,356
+2023-05-19,Food,275
+2023-05-19,Beverage,126
+2023-05-19,Food,417
+2023-05-19,Home & Garden,402
+2023-05-19,Sports,496
+2023-05-19,Home & Garden,22
+2023-05-20,Food,61
+2023-05-20,Home & Garden,443
+2023-05-20,Books,344
+2023-05-20,Beverage,377
+2023-05-21,Beverage,26
+2023-05-21,Books,47
+2023-05-21,Books,214
+2023-05-22,Beverage,449
+2023-05-22,Books,374
+2023-05-22,Home & Garden,387
+2023-05-22,Food,367
+2023-05-22,Books,91
+2023-05-22,Sports,499
+2023-05-22,Beverage,199
+2023-05-23,Books,303
+2023-05-23,Electronics,421
+2023-05-23,Clothing,384
+2023-05-23,Electronics,244
+2023-05-23,Sports,446
+2023-05-23,Sports,392
+2023-05-23,Beverage,76
+2023-05-24,Electronics,273
+2023-05-24,Books,226
+2023-05-24,Home & Garden,454
+2023-05-25,Sports,404
+2023-05-25,Clothing,33
+2023-05-25,Sports,99
+2023-05-25,Beverage,361
+2023-05-25,Food,64
+2023-05-26,Food,199
+2023-05-26,Electronics,126
+2023-05-26,Home & Garden,265
+2023-05-26,Sports,368
+2023-05-26,Books,258
+2023-05-26,Electronics,106
+2023-05-27,Beverage,231
+2023-05-27,Beverage,47
+2023-05-27,Books,42
+2023-05-27,Food,145
+2023-05-28,Sports,407
+2023-05-28,Sports,86
+2023-05-28,Food,137
+2023-05-28,Clothing,137
+2023-05-28,Food,334
+2023-05-28,Home & Garden,224
+2023-05-28,Home & Garden,287
+2023-05-29,Food,225
+2023-05-29,Home & Garden,415
+2023-05-29,Electronics,117
+2023-05-29,Books,387
+2023-05-29,Beverage,466
+2023-05-29,Home & Garden,251
+2023-05-29,Books,168
+2023-05-30,Beverage,64
+2023-05-30,Beverage,171
+2023-05-30,Sports,450
+2023-05-30,Clothing,155
+2023-05-30,Books,245
+2023-05-30,Electronics,300
+2023-05-30,Clothing,290
+2023-05-30,Sports,361
+2023-05-30,Beverage,335
+2023-05-30,Sports,84
+2023-05-31,Electronics,63
+2023-05-31,Books,230
+2023-05-31,Food,234
+2023-05-31,Home & Garden,255
+2023-05-31,Sports,97
+2023-05-31,Electronics,311
+2023-05-31,Books,282
+2023-05-31,Books,379
+2023-06-01,Sports,401
+2023-06-01,Beverage,394
+2023-06-01,Beverage,131
+2023-06-01,Electronics,437
+2023-06-01,Home & Garden,294
+2023-06-01,Beverage,293
+2023-06-01,Books,186
+2023-06-01,Sports,75
+2023-06-01,Sports,469
+2023-06-02,Food,165
+2023-06-02,Books,368
+2023-06-02,Electronics,33
+2023-06-02,Home & Garden,22
+2023-06-02,Clothing,94
+2023-06-02,Food,292
+2023-06-03,Books,71
+2023-06-03,Home & Garden,327
+2023-06-03,Electronics,88
+2023-06-03,Home & Garden,153
+2023-06-03,Electronics,284
+2023-06-03,Home & Garden,206
+2023-06-03,Food,25
+2023-06-04,Food,139
+2023-06-04,Food,197
+2023-06-04,Beverage,234
+2023-06-04,Sports,298
+2023-06-04,Electronics,192
+2023-06-04,Clothing,310
+2023-06-05,Clothing,462
+2023-06-05,Clothing,456
+2023-06-05,Clothing,232
+2023-06-05,Clothing,412
+2023-06-05,Electronics,204
+2023-06-05,Books,370
+2023-06-05,Sports,216
+2023-06-05,Books,483
+2023-06-06,Beverage,82
+2023-06-06,Books,417
+2023-06-06,Food,322
+2023-06-06,Books,350
+2023-06-06,Clothing,211
+2023-06-06,Sports,33
+2023-06-06,Electronics,49
+2023-06-06,Clothing,276
+2023-06-06,Clothing,412
+2023-06-07,Sports,130
+2023-06-07,Food,274
+2023-06-07,Food,329
+2023-06-07,Beverage,401
+2023-06-08,Electronics,173
+2023-06-08,Home & Garden,468
+2023-06-08,Clothing,290
+2023-06-08,Clothing,354
+2023-06-08,Sports,441
+2023-06-08,Electronics,224
+2023-06-08,Books,248
+2023-06-08,Books,177
+2023-06-08,Food,178
+2023-06-09,Beverage,404
+2023-06-09,Home & Garden,259
+2023-06-09,Clothing,102
+2023-06-09,Books,437
+2023-06-09,Clothing,499
+2023-06-10,Food,362
+2023-06-10,Electronics,234
+2023-06-10,Books,408
+2023-06-10,Home & Garden,133
+2023-06-10,Home & Garden,139
+2023-06-10,Food,306
+2023-06-10,Electronics,168
+2023-06-11,Beverage,208
+2023-06-11,Food,141
+2023-06-11,Food,88
+2023-06-11,Sports,428
+2023-06-11,Clothing,237
+2023-06-11,Books,99
+2023-06-11,Home & Garden,93
+2023-06-11,Clothing,71
+2023-06-11,Beverage,261
+2023-06-11,Food,88
+2023-06-12,Electronics,358
+2023-06-12,Books,198
+2023-06-12,Clothing,340
+2023-06-12,Sports,468
+2023-06-13,Food,274
+2023-06-13,Electronics,387
+2023-06-13,Food,24
+2023-06-13,Home & Garden,214
+2023-06-13,Food,339
+2023-06-13,Books,69
+2023-06-13,Clothing,311
+2023-06-13,Food,356
+2023-06-13,Clothing,155
+2023-06-13,Sports,235
+2023-06-14,Books,39
+2023-06-14,Books,192
+2023-06-14,Food,467
+2023-06-14,Beverage,318
+2023-06-15,Electronics,271
+2023-06-15,Beverage,256
+2023-06-15,Sports,64
+2023-06-15,Beverage,229
+2023-06-15,Clothing,414
+2023-06-15,Home & Garden,108
+2023-06-16,Electronics,30
+2023-06-16,Beverage,472
+2023-06-16,Beverage,76
+2023-06-16,Clothing,343
+2023-06-16,Electronics,242
+2023-06-16,Books,204
+2023-06-16,Clothing,275
+2023-06-16,Food,352
+2023-06-16,Beverage,124
+2023-06-16,Electronics,100
+2023-06-17,Clothing,194
+2023-06-17,Beverage,54
+2023-06-17,Home & Garden,376
+2023-06-17,Sports,358
+2023-06-18,Books,170
+2023-06-18,Clothing,44
+2023-06-18,Sports,305
+2023-06-18,Electronics,315
+2023-06-18,Sports,300
+2023-06-18,Electronics,35
+2023-06-18,Sports,296
+2023-06-18,Food,287
+2023-06-18,Sports,197
+2023-06-19,Beverage,92
+2023-06-19,Beverage,103
+2023-06-19,Food,153
+2023-06-19,Home & Garden,75
+2023-06-19,Food,200
+2023-06-19,Sports,325
+2023-06-19,Sports,319
+2023-06-19,Sports,68
+2023-06-20,Clothing,469
+2023-06-20,Home & Garden,412
+2023-06-20,Books,246
+2023-06-20,Books,247
+2023-06-20,Electronics,240
+2023-06-20,Sports,361
+2023-06-20,Beverage,474
+2023-06-20,Beverage,274
+2023-06-20,Electronics,164
+2023-06-20,Home & Garden,127
+2023-06-21,Sports,196
+2023-06-21,Electronics,329
+2023-06-21,Clothing,33
+2023-06-21,Books,232
+2023-06-21,Books,469
+2023-06-21,Beverage,347
+2023-06-21,Books,273
+2023-06-21,Clothing,59
+2023-06-21,Sports,122
+2023-06-21,Home & Garden,211
+2023-06-22,Books,468
+2023-06-22,Sports,375
+2023-06-22,Sports,483
+2023-06-22,Home & Garden,69
+2023-06-22,Beverage,103
+2023-06-22,Beverage,26
+2023-06-23,Home & Garden,231
+2023-06-23,Clothing,105
+2023-06-23,Beverage,283
+2023-06-23,Books,319
+2023-06-24,Home & Garden,162
+2023-06-24,Home & Garden,479
+2023-06-24,Sports,22
+2023-06-24,Home & Garden,357
+2023-06-24,Electronics,217
+2023-06-24,Sports,273
+2023-06-24,Electronics,379
+2023-06-24,Books,438
+2023-06-24,Beverage,472
+2023-06-24,Sports,156
+2023-06-25,Beverage,346
+2023-06-25,Sports,392
+2023-06-25,Food,41
+2023-06-25,Electronics,195
+2023-06-26,Books,229
+2023-06-26,Sports,302
+2023-06-26,Books,156
+2023-06-26,Beverage,255
+2023-06-26,Sports,376
+2023-06-26,Food,429
+2023-06-26,Sports,438
+2023-06-26,Electronics,141
+2023-06-26,Beverage,185
+2023-06-26,Books,292
+2023-06-27,Beverage,414
+2023-06-27,Electronics,173
+2023-06-27,Sports,406
+2023-06-28,Books,31
+2023-06-28,Clothing,174
+2023-06-28,Books,174
+2023-06-28,Electronics,222
+2023-06-28,Sports,194
+2023-06-28,Clothing,435
+2023-06-29,Clothing,273
+2023-06-29,Sports,292
+2023-06-29,Electronics,414
+2023-06-30,Sports,90
+2023-06-30,Beverage,199
+2023-06-30,Home & Garden,314
+2023-07-01,Clothing,483
+2023-07-01,Food,114
+2023-07-01,Sports,278
+2023-07-01,Sports,168
+2023-07-02,Books,154
+2023-07-02,Food,240
+2023-07-02,Books,154
+2023-07-02,Food,138
+2023-07-02,Home & Garden,348
+2023-07-03,Food,320
+2023-07-03,Electronics,441
+2023-07-03,Home & Garden,317
+2023-07-03,Home & Garden,128
+2023-07-03,Food,65
+2023-07-03,Home & Garden,190
+2023-07-04,Home & Garden,263
+2023-07-04,Food,464
+2023-07-04,Electronics,496
+2023-07-04,Electronics,394
+2023-07-04,Electronics,268
+2023-07-04,Electronics,486
+2023-07-04,Beverage,426
+2023-07-05,Food,278
+2023-07-05,Beverage,288
+2023-07-05,Sports,318
+2023-07-05,Food,170
+2023-07-05,Electronics,45
+2023-07-05,Clothing,44
+2023-07-05,Books,386
+2023-07-06,Books,246
+2023-07-06,Books,243
+2023-07-06,Home & Garden,466
+2023-07-06,Books,428
+2023-07-06,Clothing,153
+2023-07-07,Sports,23
+2023-07-07,Home & Garden,161
+2023-07-07,Electronics,370
+2023-07-07,Food,188
+2023-07-07,Food,398
+2023-07-08,Food,63
+2023-07-08,Books,78
+2023-07-08,Home & Garden,41
+2023-07-08,Clothing,310
+2023-07-08,Food,236
+2023-07-08,Beverage,137
+2023-07-08,Food,205
+2023-07-09,Books,387
+2023-07-09,Beverage,465
+2023-07-09,Clothing,135
+2023-07-09,Home & Garden,499
+2023-07-09,Sports,260
+2023-07-09,Clothing,328
+2023-07-09,Electronics,157
+2023-07-10,Books,179
+2023-07-10,Sports,88
+2023-07-10,Books,174
+2023-07-10,Beverage,73
+2023-07-10,Sports,129
+2023-07-10,Clothing,364
+2023-07-11,Home & Garden,170
+2023-07-11,Sports,155
+2023-07-11,Electronics,82
+2023-07-11,Food,44
+2023-07-11,Home & Garden,133
+2023-07-11,Food,115
+2023-07-11,Home & Garden,184
+2023-07-11,Electronics,443
+2023-07-12,Food,362
+2023-07-12,Books,343
+2023-07-12,Clothing,176
+2023-07-12,Food,426
+2023-07-13,Sports,370
+2023-07-13,Electronics,368
+2023-07-13,Electronics,43
+2023-07-13,Electronics,464
+2023-07-13,Clothing,482
+2023-07-13,Clothing,37
+2023-07-13,Electronics,149
+2023-07-13,Food,452
+2023-07-14,Clothing,323
+2023-07-14,Beverage,270
+2023-07-14,Sports,269
+2023-07-14,Electronics,23
+2023-07-14,Electronics,374
+2023-07-14,Food,307
+2023-07-15,Beverage,40
+2023-07-15,Food,238
+2023-07-15,Beverage,495
+2023-07-15,Books,340
+2023-07-16,Food,322
+2023-07-16,Sports,373
+2023-07-16,Beverage,314
+2023-07-16,Clothing,205
+2023-07-16,Books,412
+2023-07-16,Electronics,402
+2023-07-16,Sports,380
+2023-07-16,Sports,491
+2023-07-16,Sports,94
+2023-07-17,Beverage,29
+2023-07-17,Sports,345
+2023-07-17,Beverage,98
+2023-07-18,Clothing,260
+2023-07-18,Clothing,454
+2023-07-18,Clothing,192
+2023-07-18,Food,115
+2023-07-18,Books,316
+2023-07-18,Books,228
+2023-07-18,Books,294
+2023-07-18,Clothing,120
+2023-07-18,Home & Garden,173
+2023-07-19,Sports,437
+2023-07-19,Sports,357
+2023-07-19,Sports,395
+2023-07-19,Books,384
+2023-07-19,Home & Garden,312
+2023-07-19,Clothing,398
+2023-07-19,Books,109
+2023-07-19,Electronics,410
+2023-07-20,Books,442
+2023-07-20,Books,325
+2023-07-20,Sports,411
+2023-07-20,Sports,375
+2023-07-20,Clothing,164
+2023-07-20,Sports,374
+2023-07-20,Books,488
+2023-07-20,Books,463
+2023-07-20,Food,451
+2023-07-20,Food,33
+2023-07-21,Books,409
+2023-07-21,Food,139
+2023-07-21,Home & Garden,274
+2023-07-21,Food,140
+2023-07-21,Electronics,463
+2023-07-21,Food,111
+2023-07-21,Electronics,320
+2023-07-21,Books,337
+2023-07-21,Beverage,313
+2023-07-21,Food,165
+2023-07-22,Sports,70
+2023-07-22,Electronics,381
+2023-07-22,Beverage,468
+2023-07-22,Electronics,298
+2023-07-22,Books,489
+2023-07-22,Books,262
+2023-07-22,Home & Garden,46
+2023-07-22,Electronics,421
+2023-07-22,Home & Garden,276
+2023-07-23,Beverage,493
+2023-07-23,Electronics,486
+2023-07-23,Books,242
+2023-07-23,Home & Garden,222
+2023-07-23,Home & Garden,161
+2023-07-23,Books,232
+2023-07-23,Electronics,43
+2023-07-24,Home & Garden,357
+2023-07-24,Books,176
+2023-07-24,Books,200
+2023-07-24,Books,163
+2023-07-24,Home & Garden,90
+2023-07-24,Food,202
+2023-07-24,Books,158
+2023-07-24,Home & Garden,342
+2023-07-24,Sports,133
+2023-07-25,Home & Garden,146
+2023-07-25,Electronics,95
+2023-07-25,Food,453
+2023-07-25,Food,417
+2023-07-25,Beverage,222
+2023-07-25,Electronics,152
+2023-07-25,Home & Garden,139
+2023-07-25,Home & Garden,433
+2023-07-25,Home & Garden,317
+2023-07-26,Beverage,103
+2023-07-26,Beverage,124
+2023-07-26,Home & Garden,45
+2023-07-26,Books,193
+2023-07-26,Sports,315
+2023-07-26,Home & Garden,383
+2023-07-26,Books,355
+2023-07-26,Food,386
+2023-07-27,Books,268
+2023-07-27,Electronics,438
+2023-07-27,Electronics,483
+2023-07-27,Home & Garden,303
+2023-07-28,Electronics,93
+2023-07-28,Clothing,339
+2023-07-28,Beverage,307
+2023-07-28,Electronics,258
+2023-07-29,Books,261
+2023-07-29,Food,84
+2023-07-29,Beverage,202
+2023-07-29,Sports,399
+2023-07-29,Books,163
+2023-07-29,Clothing,381
+2023-07-30,Food,134
+2023-07-30,Sports,84
+2023-07-30,Books,266
+2023-07-30,Clothing,242
+2023-07-30,Clothing,164
+2023-07-30,Beverage,311
+2023-07-30,Electronics,320
+2023-07-31,Beverage,107
+2023-07-31,Electronics,24
+2023-07-31,Food,224
+2023-07-31,Electronics,42
+2023-07-31,Electronics,226
+2023-07-31,Home & Garden,195
+2023-07-31,Electronics,430
+2023-08-01,Electronics,423
+2023-08-01,Electronics,304
+2023-08-01,Beverage,384
+2023-08-01,Food,130
+2023-08-01,Electronics,158
+2023-08-01,Books,412
+2023-08-01,Home & Garden,187
+2023-08-01,Sports,404
+2023-08-01,Beverage,457
+2023-08-01,Home & Garden,386
+2023-08-02,Home & Garden,307
+2023-08-02,Sports,328
+2023-08-02,Electronics,59
+2023-08-03,Food,303
+2023-08-03,Clothing,200
+2023-08-03,Sports,436
+2023-08-03,Home & Garden,245
+2023-08-04,Sports,213
+2023-08-04,Sports,428
+2023-08-04,Food,450
+2023-08-04,Beverage,430
+2023-08-04,Home & Garden,233
+2023-08-04,Food,190
+2023-08-04,Electronics,358
+2023-08-04,Food,374
+2023-08-04,Food,82
+2023-08-05,Sports,84
+2023-08-05,Food,335
+2023-08-05,Electronics,44
+2023-08-05,Electronics,349
+2023-08-05,Beverage,322
+2023-08-05,Books,409
+2023-08-05,Books,171
+2023-08-06,Food,380
+2023-08-06,Sports,106
+2023-08-06,Books,205
+2023-08-07,Electronics,249
+2023-08-07,Food,56
+2023-08-07,Food,263
+2023-08-07,Clothing,25
+2023-08-07,Home & Garden,438
+2023-08-07,Books,367
+2023-08-07,Books,134
+2023-08-07,Electronics,85
+2023-08-07,Sports,174
+2023-08-08,Electronics,457
+2023-08-08,Home & Garden,305
+2023-08-08,Beverage,306
+2023-08-08,Sports,409
+2023-08-08,Beverage,317
+2023-08-09,Electronics,309
+2023-08-09,Home & Garden,153
+2023-08-09,Books,430
+2023-08-09,Books,491
+2023-08-09,Clothing,306
+2023-08-09,Beverage,250
+2023-08-09,Electronics,450
+2023-08-09,Sports,291
+2023-08-09,Sports,329
+2023-08-09,Clothing,48
+2023-08-10,Electronics,30
+2023-08-10,Sports,453
+2023-08-10,Books,422
+2023-08-10,Food,498
+2023-08-11,Sports,99
+2023-08-11,Sports,233
+2023-08-11,Sports,469
+2023-08-11,Food,418
+2023-08-11,Sports,138
+2023-08-11,Beverage,37
+2023-08-11,Beverage,186
+2023-08-12,Clothing,484
+2023-08-12,Home & Garden,251
+2023-08-12,Electronics,80
+2023-08-12,Home & Garden,20
+2023-08-13,Sports,159
+2023-08-13,Clothing,380
+2023-08-13,Clothing,198
+2023-08-13,Books,329
+2023-08-14,Clothing,302
+2023-08-14,Books,146
+2023-08-14,Food,59
+2023-08-14,Home & Garden,446
+2023-08-14,Beverage,130
+2023-08-15,Beverage,184
+2023-08-15,Electronics,286
+2023-08-15,Clothing,21
+2023-08-15,Food,58
+2023-08-15,Electronics,490
+2023-08-15,Clothing,469
+2023-08-16,Sports,110
+2023-08-16,Books,357
+2023-08-16,Books,389
+2023-08-16,Books,293
+2023-08-16,Home & Garden,238
+2023-08-16,Home & Garden,139
+2023-08-16,Electronics,285
+2023-08-16,Food,76
+2023-08-16,Sports,77
+2023-08-16,Clothing,451
+2023-08-17,Beverage,241
+2023-08-17,Sports,405
+2023-08-17,Home & Garden,220
+2023-08-17,Electronics,27
+2023-08-17,Home & Garden,223
+2023-08-17,Beverage,419
+2023-08-18,Home & Garden,201
+2023-08-18,Clothing,121
+2023-08-18,Clothing,119
+2023-08-18,Home & Garden,204
+2023-08-19,Sports,324
+2023-08-19,Home & Garden,56
+2023-08-19,Electronics,372
+2023-08-19,Beverage,366
+2023-08-19,Beverage,206
+2023-08-19,Home & Garden,36
+2023-08-19,Electronics,206
+2023-08-20,Beverage,426
+2023-08-20,Books,477
+2023-08-20,Food,379
+2023-08-20,Food,416
+2023-08-20,Beverage,395
+2023-08-20,Sports,217
+2023-08-20,Sports,344
+2023-08-20,Electronics,467
+2023-08-20,Clothing,125
+2023-08-20,Sports,428
+2023-08-21,Home & Garden,468
+2023-08-21,Home & Garden,183
+2023-08-21,Sports,186
+2023-08-21,Food,127
+2023-08-21,Clothing,141
+2023-08-21,Electronics,496
+2023-08-21,Beverage,173
+2023-08-21,Electronics,400
+2023-08-21,Food,38
+2023-08-21,Food,152
+2023-08-22,Beverage,365
+2023-08-22,Books,115
+2023-08-22,Sports,125
+2023-08-22,Sports,422
+2023-08-22,Books,95
+2023-08-22,Beverage,97
+2023-08-22,Home & Garden,340
+2023-08-23,Beverage,293
+2023-08-23,Clothing,79
+2023-08-23,Food,136
+2023-08-23,Sports,192
+2023-08-23,Food,387
+2023-08-23,Beverage,132
+2023-08-23,Sports,376
+2023-08-23,Home & Garden,87
+2023-08-23,Books,98
+2023-08-24,Electronics,20
+2023-08-24,Sports,366
+2023-08-24,Books,178
+2023-08-24,Clothing,116
+2023-08-24,Beverage,68
+2023-08-24,Clothing,250
+2023-08-24,Home & Garden,438
+2023-08-24,Sports,82
+2023-08-25,Clothing,42
+2023-08-25,Beverage,259
+2023-08-25,Books,491
+2023-08-25,Beverage,63
+2023-08-25,Electronics,90
+2023-08-25,Electronics,59
+2023-08-25,Sports,94
+2023-08-25,Books,264
+2023-08-25,Sports,456
+2023-08-25,Clothing,405
+2023-08-26,Sports,288
+2023-08-26,Books,474
+2023-08-26,Books,485
+2023-08-26,Electronics,263
+2023-08-26,Books,209
+2023-08-26,Clothing,158
+2023-08-26,Home & Garden,42
+2023-08-26,Sports,98
+2023-08-27,Electronics,39
+2023-08-27,Home & Garden,369
+2023-08-27,Home & Garden,355
+2023-08-28,Electronics,343
+2023-08-28,Beverage,80
+2023-08-28,Home & Garden,270
+2023-08-28,Food,41
+2023-08-28,Food,368
+2023-08-28,Electronics,191
+2023-08-29,Food,340
+2023-08-29,Sports,245
+2023-08-29,Home & Garden,203
+2023-08-29,Beverage,164
+2023-08-29,Food,301
+2023-08-29,Beverage,145
+2023-08-29,Electronics,52
+2023-08-29,Books,291
+2023-08-29,Food,268
+2023-08-29,Beverage,265
+2023-08-30,Home & Garden,61
+2023-08-30,Home & Garden,493
+2023-08-30,Beverage,37
+2023-08-30,Sports,169
+2023-08-30,Books,99
+2023-08-30,Clothing,491
+2023-08-31,Books,266
+2023-08-31,Electronics,26
+2023-08-31,Beverage,421
+2023-08-31,Food,244
+2023-08-31,Books,229
+2023-08-31,Books,202
+2023-08-31,Books,281
+2023-08-31,Electronics,494
+2023-09-01,Home & Garden,367
+2023-09-01,Beverage,207
+2023-09-01,Home & Garden,401
+2023-09-01,Food,384
+2023-09-01,Home & Garden,287
+2023-09-01,Food,500
+2023-09-01,Home & Garden,55
+2023-09-01,Sports,268
+2023-09-02,Food,122
+2023-09-02,Electronics,378
+2023-09-02,Books,409
+2023-09-02,Electronics,243
+2023-09-03,Home & Garden,72
+2023-09-03,Sports,352
+2023-09-03,Books,355
+2023-09-03,Sports,113
+2023-09-03,Electronics,348
+2023-09-03,Books,434
+2023-09-03,Books,205
+2023-09-03,Food,67
+2023-09-03,Electronics,89
+2023-09-04,Beverage,259
+2023-09-04,Sports,102
+2023-09-04,Sports,288
+2023-09-04,Sports,272
+2023-09-04,Books,479
+2023-09-05,Electronics,343
+2023-09-05,Beverage,80
+2023-09-05,Clothing,176
+2023-09-06,Sports,123
+2023-09-06,Home & Garden,231
+2023-09-06,Food,23
+2023-09-07,Clothing,307
+2023-09-07,Home & Garden,261
+2023-09-07,Home & Garden,118
+2023-09-07,Electronics,371
+2023-09-08,Books,117
+2023-09-08,Beverage,101
+2023-09-08,Clothing,450
+2023-09-08,Home & Garden,217
+2023-09-08,Home & Garden,183
+2023-09-08,Sports,494
+2023-09-08,Home & Garden,455
+2023-09-08,Food,227
+2023-09-08,Clothing,434
+2023-09-09,Books,342
+2023-09-09,Food,66
+2023-09-09,Electronics,386
+2023-09-09,Clothing,337
+2023-09-10,Food,384
+2023-09-10,Home & Garden,226
+2023-09-10,Beverage,65
+2023-09-10,Home & Garden,494
+2023-09-10,Beverage,467
+2023-09-10,Books,460
+2023-09-10,Sports,444
+2023-09-10,Home & Garden,242
+2023-09-10,Clothing,163
+2023-09-11,Electronics,95
+2023-09-11,Sports,36
+2023-09-11,Electronics,127
+2023-09-11,Food,470
+2023-09-11,Clothing,272
+2023-09-11,Home & Garden,318
+2023-09-12,Beverage,126
+2023-09-12,Sports,448
+2023-09-12,Clothing,119
+2023-09-12,Food,462
+2023-09-13,Books,68
+2023-09-13,Books,122
+2023-09-13,Beverage,129
+2023-09-13,Beverage,121
+2023-09-13,Electronics,129
+2023-09-13,Home & Garden,233
+2023-09-13,Books,349
+2023-09-13,Books,120
+2023-09-13,Sports,191
+2023-09-14,Home & Garden,73
+2023-09-14,Electronics,488
+2023-09-14,Home & Garden,308
+2023-09-14,Beverage,428
+2023-09-15,Electronics,78
+2023-09-15,Sports,385
+2023-09-15,Clothing,166
+2023-09-15,Food,417
+2023-09-15,Beverage,180
+2023-09-15,Electronics,21
+2023-09-15,Food,52
+2023-09-15,Electronics,419
+2023-09-16,Books,464
+2023-09-16,Clothing,298
+2023-09-16,Clothing,137
+2023-09-16,Electronics,136
+2023-09-16,Sports,107
+2023-09-16,Home & Garden,460
+2023-09-16,Clothing,300
+2023-09-16,Food,256
+2023-09-17,Clothing,494
+2023-09-17,Food,476
+2023-09-17,Home & Garden,466
+2023-09-17,Electronics,294
+2023-09-17,Home & Garden,479
+2023-09-17,Beverage,415
+2023-09-17,Books,345
+2023-09-17,Home & Garden,268
+2023-09-17,Clothing,177
+2023-09-17,Sports,484
+2023-09-18,Beverage,410
+2023-09-18,Home & Garden,208
+2023-09-18,Sports,41
+2023-09-18,Sports,197
+2023-09-18,Books,35
+2023-09-18,Books,341
+2023-09-18,Beverage,131
+2023-09-18,Clothing,131
+2023-09-18,Books,216
+2023-09-18,Sports,261
+2023-09-19,Books,128
+2023-09-19,Books,108
+2023-09-19,Home & Garden,315
+2023-09-19,Home & Garden,326
+2023-09-19,Food,288
+2023-09-19,Beverage,452
+2023-09-19,Home & Garden,443
+2023-09-20,Food,108
+2023-09-20,Sports,124
+2023-09-20,Electronics,209
+2023-09-20,Electronics,493
+2023-09-20,Food,389
+2023-09-20,Clothing,247
+2023-09-20,Beverage,131
+2023-09-20,Electronics,422
+2023-09-20,Food,299
+2023-09-21,Electronics,334
+2023-09-21,Electronics,198
+2023-09-21,Sports,474
+2023-09-21,Home & Garden,344
+2023-09-21,Food,103
+2023-09-21,Food,371
+2023-09-21,Food,269
+2023-09-21,Clothing,156
+2023-09-21,Food,147
+2023-09-21,Beverage,44
+2023-09-22,Electronics,462
+2023-09-22,Home & Garden,446
+2023-09-22,Food,322
+2023-09-22,Beverage,418
+2023-09-23,Food,491
+2023-09-23,Electronics,240
+2023-09-23,Books,312
+2023-09-23,Home & Garden,436
+2023-09-23,Electronics,270
+2023-09-23,Clothing,326
+2023-09-23,Books,67
+2023-09-23,Books,334
+2023-09-23,Electronics,224
+2023-09-23,Beverage,46
+2023-09-24,Sports,480
+2023-09-24,Food,440
+2023-09-24,Clothing,267
+2023-09-25,Food,81
+2023-09-25,Electronics,375
+2023-09-25,Beverage,215
+2023-09-25,Beverage,50
+2023-09-25,Home & Garden,487
+2023-09-25,Food,227
+2023-09-25,Sports,413
+2023-09-25,Beverage,110
+2023-09-25,Home & Garden,74
+2023-09-26,Clothing,253
+2023-09-26,Clothing,81
+2023-09-26,Food,29
+2023-09-26,Food,189
+2023-09-26,Home & Garden,235
+2023-09-26,Home & Garden,22
+2023-09-26,Beverage,135
+2023-09-26,Food,252
+2023-09-27,Sports,84
+2023-09-27,Sports,144
+2023-09-27,Clothing,335
+2023-09-27,Books,87
+2023-09-27,Books,251
+2023-09-28,Sports,271
+2023-09-28,Books,118
+2023-09-28,Books,58
+2023-09-28,Beverage,123
+2023-09-28,Electronics,192
+2023-09-28,Books,309
+2023-09-28,Books,247
+2023-09-29,Home & Garden,285
+2023-09-29,Food,465
+2023-09-29,Beverage,439
+2023-09-30,Electronics,407
+2023-09-30,Sports,44
+2023-09-30,Beverage,415
+2023-09-30,Clothing,493
+2023-09-30,Clothing,495
+2023-09-30,Beverage,120
+2023-09-30,Books,389
+2023-09-30,Clothing,81
+2023-10-01,Clothing,413
+2023-10-01,Sports,109
+2023-10-01,Clothing,322
+2023-10-01,Food,493
+2023-10-01,Clothing,330
+2023-10-02,Food,436
+2023-10-02,Beverage,462
+2023-10-02,Clothing,367
+2023-10-02,Books,138
+2023-10-02,Clothing,350
+2023-10-02,Food,495
+2023-10-02,Food,341
+2023-10-03,Electronics,495
+2023-10-03,Sports,240
+2023-10-03,Food,382
+2023-10-03,Electronics,320
+2023-10-03,Electronics,188
+2023-10-03,Beverage,47
+2023-10-03,Electronics,433
+2023-10-04,Books,223
+2023-10-04,Beverage,354
+2023-10-04,Electronics,45
+2023-10-05,Home & Garden,433
+2023-10-05,Clothing,479
+2023-10-05,Clothing,467
+2023-10-05,Books,138
+2023-10-05,Beverage,256
+2023-10-06,Clothing,301
+2023-10-06,Books,297
+2023-10-06,Beverage,158
+2023-10-06,Books,320
+2023-10-06,Sports,93
+2023-10-06,Sports,299
+2023-10-06,Electronics,245
+2023-10-07,Sports,284
+2023-10-07,Beverage,47
+2023-10-07,Books,137
+2023-10-07,Clothing,57
+2023-10-07,Food,36
+2023-10-07,Books,390
+2023-10-07,Home & Garden,500
+2023-10-07,Beverage,35
+2023-10-07,Beverage,461
+2023-10-07,Books,192
+2023-10-08,Food,336
+2023-10-08,Books,242
+2023-10-08,Books,441
+2023-10-08,Books,231
+2023-10-08,Clothing,358
+2023-10-08,Clothing,193
+2023-10-09,Food,363
+2023-10-09,Electronics,396
+2023-10-09,Home & Garden,184
+2023-10-09,Electronics,242
+2023-10-09,Electronics,63
+2023-10-10,Beverage,236
+2023-10-10,Food,430
+2023-10-10,Home & Garden,327
+2023-10-10,Sports,291
+2023-10-10,Clothing,349
+2023-10-10,Home & Garden,406
+2023-10-10,Home & Garden,417
+2023-10-10,Books,384
+2023-10-10,Clothing,306
+2023-10-11,Clothing,272
+2023-10-11,Books,131
+2023-10-11,Sports,424
+2023-10-11,Food,60
+2023-10-11,Electronics,300
+2023-10-11,Beverage,276
+2023-10-11,Food,97
+2023-10-12,Food,154
+2023-10-12,Books,38
+2023-10-12,Home & Garden,229
+2023-10-12,Home & Garden,49
+2023-10-12,Home & Garden,330
+2023-10-12,Clothing,227
+2023-10-12,Electronics,313
+2023-10-12,Books,365
+2023-10-12,Books,52
+2023-10-13,Beverage,92
+2023-10-13,Sports,31
+2023-10-13,Food,275
+2023-10-13,Beverage,90
+2023-10-13,Sports,55
+2023-10-13,Clothing,394
+2023-10-13,Books,383
+2023-10-13,Clothing,156
+2023-10-13,Food,39
+2023-10-13,Food,371
+2023-10-14,Books,308
+2023-10-14,Home & Garden,78
+2023-10-14,Electronics,80
+2023-10-14,Sports,123
+2023-10-15,Sports,383
+2023-10-15,Beverage,63
+2023-10-15,Food,335
+2023-10-15,Sports,485
+2023-10-15,Clothing,255
+2023-10-15,Beverage,481
+2023-10-15,Food,378
+2023-10-15,Food,308
+2023-10-16,Electronics,499
+2023-10-16,Electronics,311
+2023-10-16,Clothing,112
+2023-10-16,Electronics,403
+2023-10-16,Home & Garden,89
+2023-10-16,Clothing,320
+2023-10-16,Sports,228
+2023-10-17,Sports,223
+2023-10-17,Books,160
+2023-10-17,Electronics,470
+2023-10-17,Electronics,384
+2023-10-17,Home & Garden,283
+2023-10-17,Clothing,57
+2023-10-17,Electronics,473
+2023-10-17,Home & Garden,144
+2023-10-17,Books,191
+2023-10-18,Books,63
+2023-10-18,Beverage,112
+2023-10-18,Clothing,477
+2023-10-18,Sports,450
+2023-10-19,Sports,430
+2023-10-19,Clothing,22
+2023-10-19,Beverage,66
+2023-10-19,Food,160
+2023-10-19,Clothing,260
+2023-10-19,Home & Garden,32
+2023-10-19,Electronics,143
+2023-10-19,Books,302
+2023-10-19,Clothing,142
+2023-10-19,Sports,478
+2023-10-20,Electronics,137
+2023-10-20,Books,308
+2023-10-20,Beverage,338
+2023-10-20,Books,136
+2023-10-20,Food,65
+2023-10-20,Food,255
+2023-10-20,Sports,296
+2023-10-20,Beverage,199
+2023-10-20,Home & Garden,444
+2023-10-20,Food,416
+2023-10-21,Food,384
+2023-10-21,Books,380
+2023-10-21,Food,25
+2023-10-21,Books,329
+2023-10-21,Clothing,435
+2023-10-22,Books,156
+2023-10-22,Clothing,101
+2023-10-22,Sports,182
+2023-10-22,Food,390
+2023-10-22,Sports,172
+2023-10-22,Books,28
+2023-10-22,Books,281
+2023-10-23,Clothing,454
+2023-10-23,Sports,35
+2023-10-23,Beverage,385
+2023-10-24,Electronics,493
+2023-10-24,Home & Garden,27
+2023-10-24,Sports,423
+2023-10-24,Beverage,402
+2023-10-24,Home & Garden,246
+2023-10-25,Food,457
+2023-10-25,Books,192
+2023-10-25,Clothing,164
+2023-10-25,Books,285
+2023-10-25,Sports,482
+2023-10-25,Home & Garden,278
+2023-10-25,Books,21
+2023-10-25,Sports,334
+2023-10-25,Food,489
+2023-10-26,Clothing,155
+2023-10-26,Books,151
+2023-10-26,Sports,395
+2023-10-26,Books,166
+2023-10-26,Books,303
+2023-10-26,Beverage,30
+2023-10-26,Clothing,434
+2023-10-26,Electronics,347
+2023-10-27,Books,88
+2023-10-27,Beverage,42
+2023-10-27,Books,341
+2023-10-27,Electronics,317
+2023-10-28,Food,247
+2023-10-28,Clothing,232
+2023-10-28,Beverage,64
+2023-10-28,Food,159
+2023-10-28,Clothing,177
+2023-10-28,Food,420
+2023-10-29,Beverage,421
+2023-10-29,Food,462
+2023-10-29,Beverage,282
+2023-10-29,Beverage,110
+2023-10-29,Home & Garden,198
+2023-10-30,Electronics,303
+2023-10-30,Sports,247
+2023-10-30,Books,472
+2023-10-31,Electronics,434
+2023-10-31,Clothing,135
+2023-10-31,Clothing,413
+2023-10-31,Books,311
+2023-10-31,Home & Garden,403
+2023-11-01,Electronics,366
+2023-11-01,Electronics,337
+2023-11-01,Beverage,351
+2023-11-01,Books,364
+2023-11-01,Electronics,135
+2023-11-01,Sports,487
+2023-11-02,Home & Garden,59
+2023-11-02,Sports,194
+2023-11-02,Books,140
+2023-11-02,Beverage,342
+2023-11-02,Clothing,259
+2023-11-02,Food,54
+2023-11-02,Clothing,491
+2023-11-02,Sports,112
+2023-11-02,Beverage,303
+2023-11-02,Electronics,56
+2023-11-03,Home & Garden,72
+2023-11-03,Books,317
+2023-11-03,Beverage,239
+2023-11-03,Electronics,346
+2023-11-03,Food,321
+2023-11-03,Electronics,429
+2023-11-03,Clothing,364
+2023-11-03,Home & Garden,28
+2023-11-03,Books,316
+2023-11-03,Beverage,315
+2023-11-04,Beverage,246
+2023-11-04,Clothing,420
+2023-11-04,Books,53
+2023-11-04,Electronics,385
+2023-11-04,Clothing,298
+2023-11-04,Electronics,140
+2023-11-04,Electronics,497
+2023-11-05,Electronics,173
+2023-11-05,Beverage,372
+2023-11-05,Clothing,351
+2023-11-05,Clothing,118
+2023-11-05,Sports,310
+2023-11-05,Books,223
+2023-11-06,Sports,487
+2023-11-06,Sports,221
+2023-11-06,Home & Garden,120
+2023-11-06,Beverage,388
+2023-11-06,Books,237
+2023-11-06,Clothing,196
+2023-11-06,Beverage,231
+2023-11-06,Home & Garden,349
+2023-11-06,Books,102
+2023-11-06,Food,456
+2023-11-07,Clothing,99
+2023-11-07,Food,49
+2023-11-07,Home & Garden,245
+2023-11-07,Home & Garden,272
+2023-11-07,Home & Garden,301
+2023-11-08,Books,442
+2023-11-08,Electronics,199
+2023-11-08,Sports,290
+2023-11-08,Beverage,156
+2023-11-08,Home & Garden,201
+2023-11-08,Food,320
+2023-11-08,Food,142
+2023-11-09,Food,133
+2023-11-09,Home & Garden,243
+2023-11-09,Books,222
+2023-11-09,Electronics,400
+2023-11-10,Electronics,175
+2023-11-10,Clothing,212
+2023-11-10,Food,339
+2023-11-10,Sports,491
+2023-11-10,Clothing,357
+2023-11-10,Clothing,454
+2023-11-11,Books,288
+2023-11-11,Clothing,97
+2023-11-11,Books,315
+2023-11-11,Home & Garden,42
+2023-11-11,Beverage,487
+2023-11-11,Sports,70
+2023-11-11,Home & Garden,45
+2023-11-11,Home & Garden,442
+2023-11-11,Food,55
+2023-11-12,Clothing,414
+2023-11-12,Clothing,319
+2023-11-12,Clothing,327
+2023-11-13,Home & Garden,309
+2023-11-13,Home & Garden,197
+2023-11-13,Electronics,227
+2023-11-13,Home & Garden,346
+2023-11-13,Home & Garden,319
+2023-11-13,Food,459
+2023-11-13,Electronics,380
+2023-11-14,Sports,238
+2023-11-14,Beverage,188
+2023-11-14,Home & Garden,117
+2023-11-14,Books,195
+2023-11-15,Sports,189
+2023-11-15,Clothing,127
+2023-11-15,Books,253
+2023-11-15,Sports,263
+2023-11-16,Home & Garden,59
+2023-11-16,Electronics,163
+2023-11-16,Electronics,139
+2023-11-16,Beverage,202
+2023-11-16,Clothing,198
+2023-11-16,Clothing,468
+2023-11-17,Clothing,318
+2023-11-17,Clothing,69
+2023-11-17,Beverage,488
+2023-11-17,Books,213
+2023-11-17,Clothing,98
+2023-11-17,Books,322
+2023-11-17,Clothing,445
+2023-11-18,Electronics,67
+2023-11-18,Food,483
+2023-11-18,Books,158
+2023-11-18,Electronics,468
+2023-11-18,Electronics,395
+2023-11-18,Sports,319
+2023-11-18,Food,426
+2023-11-18,Beverage,68
+2023-11-18,Food,292
+2023-11-18,Food,492
+2023-11-19,Food,369
+2023-11-19,Sports,114
+2023-11-19,Beverage,396
+2023-11-20,Home & Garden,36
+2023-11-20,Clothing,127
+2023-11-20,Sports,355
+2023-11-20,Books,215
+2023-11-21,Books,414
+2023-11-21,Sports,495
+2023-11-21,Clothing,323
+2023-11-21,Books,163
+2023-11-21,Electronics,488
+2023-11-21,Sports,145
+2023-11-21,Electronics,272
+2023-11-22,Beverage,38
+2023-11-22,Clothing,430
+2023-11-22,Sports,134
+2023-11-22,Electronics,164
+2023-11-22,Food,43
+2023-11-22,Food,184
+2023-11-22,Books,360
+2023-11-22,Electronics,55
+2023-11-22,Books,420
+2023-11-22,Clothing,230
+2023-11-23,Beverage,100
+2023-11-23,Food,342
+2023-11-23,Beverage,139
+2023-11-23,Electronics,167
+2023-11-24,Sports,68
+2023-11-24,Clothing,197
+2023-11-24,Clothing,408
+2023-11-24,Books,262
+2023-11-24,Clothing,303
+2023-11-24,Beverage,112
+2023-11-24,Clothing,278
+2023-11-25,Home & Garden,294
+2023-11-25,Clothing,253
+2023-11-25,Sports,140
+2023-11-25,Electronics,186
+2023-11-25,Beverage,157
+2023-11-25,Sports,201
+2023-11-25,Electronics,128
+2023-11-26,Food,473
+2023-11-26,Sports,341
+2023-11-26,Food,51
+2023-11-26,Clothing,140
+2023-11-26,Sports,489
+2023-11-27,Beverage,261
+2023-11-27,Books,81
+2023-11-27,Sports,462
+2023-11-27,Electronics,27
+2023-11-27,Sports,484
+2023-11-27,Books,120
+2023-11-27,Home & Garden,156
+2023-11-28,Books,90
+2023-11-28,Home & Garden,273
+2023-11-28,Books,333
+2023-11-28,Home & Garden,81
+2023-11-28,Home & Garden,93
+2023-11-28,Books,368
+2023-11-28,Home & Garden,56
+2023-11-28,Beverage,143
+2023-11-28,Electronics,216
+2023-11-29,Food,492
+2023-11-29,Beverage,389
+2023-11-29,Clothing,437
+2023-11-29,Home & Garden,28
+2023-11-29,Electronics,284
+2023-11-29,Sports,23
+2023-11-29,Food,120
+2023-11-29,Electronics,115
+2023-11-29,Beverage,131
+2023-11-30,Beverage,242
+2023-11-30,Books,219
+2023-11-30,Beverage,28
+2023-12-01,Food,39
+2023-12-01,Home & Garden,493
+2023-12-01,Sports,140
+2023-12-01,Home & Garden,373
+2023-12-01,Sports,246
+2023-12-01,Electronics,301
+2023-12-01,Electronics,95
+2023-12-01,Beverage,124
+2023-12-02,Food,117
+2023-12-02,Electronics,227
+2023-12-02,Beverage,380
+2023-12-02,Sports,494
+2023-12-02,Books,313
+2023-12-03,Clothing,66
+2023-12-03,Home & Garden,180
+2023-12-03,Home & Garden,225
+2023-12-03,Food,94
+2023-12-03,Sports,354
+2023-12-03,Sports,465
+2023-12-04,Electronics,372
+2023-12-04,Home & Garden,360
+2023-12-04,Books,96
+2023-12-04,Home & Garden,22
+2023-12-04,Sports,281
+2023-12-04,Food,336
+2023-12-05,Electronics,483
+2023-12-05,Sports,347
+2023-12-05,Books,353
+2023-12-05,Electronics,208
+2023-12-06,Books,387
+2023-12-06,Food,189
+2023-12-06,Sports,451
+2023-12-06,Food,447
+2023-12-06,Electronics,54
+2023-12-06,Clothing,303
+2023-12-06,Books,167
+2023-12-06,Food,140
+2023-12-06,Electronics,91
+2023-12-07,Books,491
+2023-12-07,Clothing,158
+2023-12-07,Food,451
+2023-12-07,Books,80
+2023-12-08,Clothing,244
+2023-12-08,Books,288
+2023-12-08,Sports,285
+2023-12-08,Sports,33
+2023-12-08,Beverage,141
+2023-12-08,Clothing,333
+2023-12-08,Beverage,148
+2023-12-08,Clothing,182
+2023-12-08,Food,154
+2023-12-08,Food,148
+2023-12-09,Clothing,246
+2023-12-09,Electronics,95
+2023-12-09,Home & Garden,374
+2023-12-09,Clothing,421
+2023-12-09,Books,276
+2023-12-09,Home & Garden,164
+2023-12-10,Food,452
+2023-12-10,Electronics,214
+2023-12-10,Clothing,332
+2023-12-10,Home & Garden,459
+2023-12-10,Clothing,277
+2023-12-11,Books,69
+2023-12-11,Beverage,486
+2023-12-11,Food,426
+2023-12-11,Books,404
+2023-12-11,Food,344
+2023-12-12,Food,27
+2023-12-12,Clothing,75
+2023-12-12,Books,100
+2023-12-12,Home & Garden,332
+2023-12-12,Electronics,281
+2023-12-12,Sports,490
+2023-12-13,Beverage,179
+2023-12-13,Clothing,52
+2023-12-13,Food,291
+2023-12-13,Sports,469
+2023-12-13,Electronics,225
+2023-12-13,Sports,294
+2023-12-13,Home & Garden,379
+2023-12-13,Electronics,466
+2023-12-13,Food,463
+2023-12-13,Electronics,260
+2023-12-14,Sports,55
+2023-12-14,Books,37
+2023-12-14,Books,146
+2023-12-14,Books,410
+2023-12-14,Clothing,387
+2023-12-14,Beverage,475
+2023-12-15,Food,176
+2023-12-15,Home & Garden,493
+2023-12-15,Books,199
+2023-12-15,Sports,217
+2023-12-15,Food,465
+2023-12-15,Books,225
+2023-12-15,Sports,230
+2023-12-15,Sports,248
+2023-12-16,Clothing,394
+2023-12-16,Books,47
+2023-12-16,Beverage,121
+2023-12-16,Electronics,213
+2023-12-16,Home & Garden,142
+2023-12-16,Food,349
+2023-12-16,Books,437
+2023-12-16,Books,219
+2023-12-16,Electronics,470
+2023-12-16,Sports,465
+2023-12-17,Food,381
+2023-12-17,Home & Garden,420
+2023-12-17,Electronics,355
+2023-12-17,Beverage,463
+2023-12-17,Home & Garden,203
+2023-12-17,Electronics,373
+2023-12-17,Books,413
+2023-12-17,Beverage,206
+2023-12-17,Home & Garden,163
+2023-12-17,Home & Garden,43
+2023-12-18,Food,224
+2023-12-18,Beverage,115
+2023-12-18,Sports,75
+2023-12-19,Clothing,376
+2023-12-19,Electronics,321
+2023-12-19,Books,413
+2023-12-19,Clothing,228
+2023-12-19,Beverage,210
+2023-12-20,Food,210
+2023-12-20,Home & Garden,404
+2023-12-20,Beverage,141
+2023-12-20,Beverage,174
+2023-12-20,Sports,99
+2023-12-20,Food,102
+2023-12-20,Books,258
+2023-12-21,Home & Garden,405
+2023-12-21,Home & Garden,250
+2023-12-21,Electronics,320
+2023-12-21,Food,386
+2023-12-21,Home & Garden,128
+2023-12-21,Electronics,220
+2023-12-21,Food,263
+2023-12-21,Books,445
+2023-12-21,Food,470
+2023-12-22,Books,387
+2023-12-22,Food,30
+2023-12-22,Electronics,110
+2023-12-22,Food,298
+2023-12-22,Books,24
+2023-12-22,Electronics,21
+2023-12-23,Electronics,90
+2023-12-23,Books,232
+2023-12-23,Food,470
+2023-12-23,Home & Garden,58
+2023-12-23,Home & Garden,428
+2023-12-23,Electronics,440
+2023-12-23,Food,21
+2023-12-23,Food,374
+2023-12-24,Food,416
+2023-12-24,Home & Garden,286
+2023-12-24,Beverage,24
+2023-12-24,Electronics,272
+2023-12-24,Food,242
+2023-12-24,Food,28
+2023-12-24,Books,444
+2023-12-24,Electronics,373
+2023-12-24,Food,100
+2023-12-24,Beverage,28
+2023-12-25,Clothing,303
+2023-12-25,Clothing,495
+2023-12-25,Food,310
+2023-12-25,Food,91
+2023-12-25,Electronics,98
+2023-12-25,Home & Garden,232
+2023-12-26,Beverage,98
+2023-12-26,Books,76
+2023-12-26,Clothing,31
+2023-12-26,Electronics,119
+2023-12-26,Food,114
+2023-12-26,Food,473
+2023-12-26,Home & Garden,357
+2023-12-26,Sports,93
+2023-12-26,Food,126
+2023-12-26,Food,65
+2023-12-27,Food,174
+2023-12-27,Beverage,167
+2023-12-27,Beverage,202
+2023-12-27,Books,27
+2023-12-27,Clothing,362
+2023-12-27,Books,496
+2023-12-27,Sports,151
+2023-12-27,Books,259
+2023-12-27,Clothing,104
+2023-12-27,Sports,79
+2023-12-28,Home & Garden,377
+2023-12-28,Home & Garden,278
+2023-12-28,Sports,187
+2023-12-28,Books,302
+2023-12-28,Home & Garden,448
+2023-12-28,Sports,346
+2023-12-28,Electronics,337
+2023-12-28,Home & Garden,356
+2023-12-28,Books,315
+2023-12-28,Electronics,347
+2023-12-29,Books,341
+2023-12-29,Electronics,477
+2023-12-29,Books,261
+2023-12-29,Clothing,406
+2023-12-29,Beverage,230
+2023-12-29,Home & Garden,67
+2023-12-29,Clothing,246
+2023-12-29,Electronics,435
+2023-12-29,Beverage,299
+2023-12-29,Clothing,169
+2023-12-30,Beverage,457
+2023-12-30,Food,26
+2023-12-30,Home & Garden,220
+2023-12-31,Home & Garden,170
+2023-12-31,Home & Garden,285
+2023-12-31,Electronics,446
+2023-12-31,Food,463
+2023-12-31,Home & Garden,156
+2023-12-31,Clothing,59
+2023-12-31,Electronics,366
+2023-12-31,Clothing,460
