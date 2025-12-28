@@ -2,18 +2,19 @@ import random
 import csv
 from datetime import date, timedelta
 
+# Kategori dalam Bahasa Indonesia agar selaras dengan Dashboard
 CATEGORIES = [
-    "Food",
-    "Beverage",
-    "Electronics",
-    "Clothing",
-    "Sports",
-    "Books",
-    "Home & Garden",
+    "Makanan",
+    "Minuman",
+    "Elektronik",
+    "Pakaian",
+    "Olahraga",
+    "Buku",
+    "Rumah Tangga",
 ]
 
 START_DATE = date(2023, 1, 1)
-DAYS = 365  # 1 tahun data
+DAYS = 365 
 
 OUTPUT_PATH = "app/data/sales_data.csv"
 
@@ -25,14 +26,15 @@ def generate():
         daily_transactions = random.randint(3, 10)
 
         for _ in range(daily_transactions):
+            amount = random.randint(50, 2000) * 1000 
+            
             rows.append([
                 current_date.isoformat(),
                 random.choice(CATEGORIES),
-                random.randint(20, 500)
+                amount
             ])
 
         current_date += timedelta(days=1)
-
     return rows
 
 def main():

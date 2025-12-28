@@ -4,7 +4,7 @@ from app.api.routes import router
 
 app = FastAPI(
     title="Sales Analytics API",
-    version="1.0.0"
+    version="1.0.0",
 )
 
 app.add_middleware(
